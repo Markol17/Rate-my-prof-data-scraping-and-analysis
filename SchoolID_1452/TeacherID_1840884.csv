@@ -1,0 +1,4 @@
+attendance,clarityColor,easyColor,helpColor,helpCount,id,notHelpCount,onlineClass,quality,rClarity,rClass,rComments,rDate,rEasy,rEasyString,rErrorMsg,rHelpful,rInterest,rOverall,rOverallString,rStatus,rTextBookUse,rTimestamp,rWouldTakeAgain,sId,takenForCredit,teacher,teacherGrade,teacherRatingTags,unUsefulGrouping,usefulGrouping
+Mandatory,good,average,good,0,26782395,0,online,awesome,5,EDU5687,This professor is amazing,07/05/2016,3.0,3.0,,5,N/A,5.0,5.0,1,Yes,1467750258000,Yes,1452,Yes,,A-,[],people,people
+Not Mandatory,good,average,good,0,26660737,0,online,awesome,5,PED4760,Great professor,05/27/2016,3.0,3.0,,5,N/A,5.0,5.0,1,Yes,1464349288000,Yes,1452,Yes,,N/A,"['Inspirational', 'Gives good feedback', 'Caring']",people,people
+Mandatory,good,average,good,0,25960317,0,online,awesome,5,EDU5582,Amazing prof,01/18/2016,3.0,3.0,,5,It's my life,5.0,5.0,1,Yes,1453160897000,N/A,1452,Yes,,N/A,"['Caring', 'Gives good feedback', 'Respected']",people,people
